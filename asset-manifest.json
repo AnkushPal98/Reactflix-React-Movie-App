@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Reactflix-React-Movie-App/static/css/main.3228d7cb.css",
-    "main.js": "/Reactflix-React-Movie-App/static/js/main.481409d8.js",
+    "main.js": "/Reactflix-React-Movie-App/static/js/main.2d4f3514.js",
     "static/media/bootstrap-icons.woff?": "/Reactflix-React-Movie-App/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/bootstrap-icons.woff2?": "/Reactflix-React-Movie-App/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/Reactflix-React-Movie-App/index.html",
     "main.3228d7cb.css.map": "/Reactflix-React-Movie-App/static/css/main.3228d7cb.css.map",
-    "main.481409d8.js.map": "/Reactflix-React-Movie-App/static/js/main.481409d8.js.map"
+    "main.2d4f3514.js.map": "/Reactflix-React-Movie-App/static/js/main.2d4f3514.js.map"
   },
   "entrypoints": [
     "static/css/main.3228d7cb.css",
-    "static/js/main.481409d8.js"
+    "static/js/main.2d4f3514.js"
   ]
 }

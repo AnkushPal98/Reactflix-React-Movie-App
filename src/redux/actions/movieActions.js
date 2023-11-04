@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { type } from '../types';
 
-const BASE_URL = 'http://www.omdbapi.com/?apikey=aa9e49f';
+const BASE_URL = 'https://www.omdbapi.com/?apikey=aa9e49f';
 const paramsKey = {
   SEARCH: '&s=',
   TITLE: '&t=',
